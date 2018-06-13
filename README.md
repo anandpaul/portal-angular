@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+##SET UP:
+# To Install ng-bootrstrap refer the below link
+# https://medium.com/codingthesmartway-com-blog/using-bootstrap-with-angular-c83c3cee3f4a
+npm install --save @ng-bootstrap/ng-bootstrap
+npm install bootstrap@4.1.1
+
+#npm start command with different port
+package.json --> "start": "ng serve --port 5000",
