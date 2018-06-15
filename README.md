@@ -35,3 +35,9 @@ npm install bootstrap@4.1.1
 
 #npm start command with different port
 package.json --> "start": "ng serve --port 5000",
+
+#generate modules and routings
+ng g m login --routing
+
+#generate service
+ng g s login/login
